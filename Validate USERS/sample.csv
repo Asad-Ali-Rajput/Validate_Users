@@ -1,0 +1,12 @@
+Name,Degree,Dept,Id,userName,passWord
+NULL,NULL,NULL,NULL,NULL,NULL
+Ali,BE,oclits,54,1,passWord
+Ahmed,BE,oclits,53,2,passWord
+Hashir,BE,oclits,52,3,passWord
+Hadi,BE,oclits,51,4,passWord
+Asad,BE,oclits,55,11,passWord
+Usha,BE,oclits,56,6,passWord
+fareed,BE,oclits,57,7,passWord
+saif,BE,oclits,58,8,passWord
+nawaz,BE,oclits,59,9,passWord
+shehbaz,BE,oclits,60,10,passWord
